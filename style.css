@@ -1,0 +1,33 @@
+body{
+   background-color: rgb(255,182,193)
+} 
+.title {
+    border: 25px solid rgb(0,0,139);
+    margin: 0 auto;
+    width: 20%;
+    padding: 8px;
+  
+  
+}
+.title p {
+    text-align: center;
+    font: small-caps bold 1.2rem arial;
+    font-size: 45px;
+}
+.nice-for-what {
+    
+    margin: 0 auto;
+    width: 40%;
+    padding: 10px;
+    font-size: 25px;
+   text-align: center;
+}   
+.nice-for-what img{
+    width: 45%;
+    border: 10px solid rgb(0,0,139);
+}
+.nice-for-what p {
+    font: small-caps bold 1.2rem arial;
+    
+}
+
