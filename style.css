@@ -22,15 +22,15 @@ body{
     display: flex; 
     flex-direction: column;
     align-items: center;
-    border: 10px solid black;
+    border: 10px solid rgb( 0, 0, 0);
     margin-top: 10px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 5%;
     font: small-caps bold 1.2rem arial;
 }   
 .nice-for-what img{
     width: 70%;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     border-radius: 5%;
 }
 .nice-for-what p {
@@ -41,17 +41,17 @@ body{
     margin-top: 10px;
     font-size: 15px;
     width: 100%;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     border-radius: 5%;
     padding: -5px;
-    background-color: lightslategray;
+    background-color: rgb(119, 136, 153);
 }
 .nice-for-what a {
     margin-top: 7px;
     font-size: 20px;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     padding: 5px;
-    background-color: lightslategray;
+    background-color: rgb(119, 136, 153);
     border-radius: 5%;
 }
 .novacane {
@@ -62,15 +62,15 @@ body{
     display: flex; 
     flex-direction: column;
     align-items: center;
-    border: 10px solid black;
-    background-color: white;
+    border: 10px solid rgb( 0, 0, 0);
+    background-color: rgb(255, 255, 255);
     margin-top: 10px;
     border-radius: 5%;
     font: small-caps bold 1.2rem arial;
 }
 .novacane img{
     width: 70%;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     border-radius: 5%;
 }
 .novacane p{
@@ -81,17 +81,17 @@ body{
     margin-top: 10px;
     font-size: 15px;
     width: 100%;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     border-radius: 5%;
     padding: -5px;
-    background-color: lightslategray;
+    background-color: rgb(119, 136, 153);
 }
 .novacane a {
     margin-top: 7px;
     font-size: 20px;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     padding: 5px;
-    background-color: lightslategray;
+    background-color: rgb(119, 136, 153);
     border-radius: 5%;
 }
 .see-you-again {
@@ -102,15 +102,15 @@ body{
     display: flex; 
     flex-direction: column;
     align-items: center;
-    border: 10px solid black;
-    background-color: white;
+    border: 10px solid rgb( 0, 0, 0);
+    background-color: rgb(255, 255, 255);
     margin-top: 10px;
     border-radius: 5%;
     font: small-caps bold 1.2rem arial;
 }
 .see-you-again img {
     width: 70%;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     border-radius: 5%;
 }
 .see-you-again p {
@@ -121,26 +121,26 @@ body{
     margin-top: 10px;
     font-size: 15px;
     width: 100%;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     border-radius: 5%;
     padding: -5px;
-    background-color: lightslategray;
+    background-color: rgb(119, 136, 153);
 }
 .see-you-again a {
     margin-top: 7px;
     font-size: 20px;
-    border: 5px solid black;
+    border: 5px solid rgb( 0, 0, 0);
     padding: 5px;
-    background-color: lightslategray;
+    background-color: rgb(119, 136, 153);
     border-radius: 5%;
 }
 .author {
     position: absolute;
     top: 30px; right: 70px;
-    border: 10px solid black;
+    border: 10px solid rgb( 0, 0, 0);
     border-radius: 5%;
     padding-left: 10px; padding-right: 10px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     font-size: 20px;
     font: small-caps bold 1.2rem arial;
 }
